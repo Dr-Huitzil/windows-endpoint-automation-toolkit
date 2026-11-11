@@ -1,0 +1,11 @@
+# Local test outputs and credentials
+*.log
+*.bak
+*.csv
+*.txt
+!LICENSE
+.env
+*.pfx
+*.key
+.DS_Store
+Thumbs.db
