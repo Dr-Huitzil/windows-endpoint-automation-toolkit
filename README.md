@@ -2,7 +2,7 @@
 
 A sanitized, production-inspired collection of **PowerShell 5.1+ automation scripts**, **Windows 11 unattended provisioning templates**, and **multi-site infrastructure runbooks** designed for RMM-driven fleet management, security hardening, and Layer 1–3 operational triage.
 
-> **Sanitization Notice:** All scripts, XML templates, JSON mappings, and runbooks in this repository are generalized reference implementations inspired by real enterprise operations across an 18-site healthcare fleet (224+ endpoints). Zero proprietary domains, internal IP addresses, hostnames, credentials, or organizational data are included.
+> **Sanitization Notice:** All scripts, XML templates, JSON mappings, and runbooks in this repository are generalized reference implementations inspired by real enterprise operations across an 18-site healthcare fleet (500+ endpoints). Zero proprietary domains, internal IP addresses, hostnames, credentials, or organizational data are included.
 
 ---
 
