@@ -81,5 +81,5 @@ All scripts target **PowerShell 5.1+** with Administrator / `SYSTEM` privileges 
 **Ivan Alier-Reyes**  
 Systems & Endpoint Automation Specialist | CompTIA Security+ | Cisco CCNA *(In Progress)*  
 - Portfolio: [WillofHuitzil.com](https://willofhuitzil.com)
-- LinkedIn: [linkedin.com/in/ivan-alier-reyes](https://linkedin.com/in/ivan-alier-reyes)
+- LinkedIn: [linkedin.com/in/ivan-alier-reyes](https://www.linkedin.com/in/ivan-alier-reyes)
 - GitHub: [github.com/Dr-Huitzil](https://github.com/Dr-Huitzil)
